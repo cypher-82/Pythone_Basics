@@ -10,3 +10,6 @@ print("The Sum =", a + b)
 
 # This is also the comment
 print("I am learning coding with python")
+
+def my_function():
+    print("This is my function")
