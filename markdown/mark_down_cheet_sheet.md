@@ -1,5 +1,4 @@
-# **1-Headings**
-
+> # **1-Headings**
 #### How to give headings in markdown language.
 # Heading 1
 ## Heading 2
@@ -8,32 +7,39 @@
 ##### Heading 5
 ###### Heading 6
 
-# **2-Block of Words**
+> # **2-Block of Words**
 This is normal text in markdown.
 > This is the spacial block of text in markdown.
 >
 >This is second line of words.
 
-# **3-Line Breaks**
+> # **3-Line Breaks**
 This is 40 days long course Data Science with python.\
 This is a second line.
 
-# **4-Combine two things**
+> # **4-Combine two things**
 Block of words and heading.
 > ## Heading 2
 
-# **5-Face of Text**
+> # **5-Face of Text**
+For bold use double *(Star)
 **Bold**\
+For italic use single *(Star)
 *Italic*\
+For bold and italic use triple *(Star)
 ***Bold and Italic***
 
-OR You can use these symbols.\
-for bold double _(Underscore):
+OR You can use these symbols.
+
+For bold use double _(Underscore):
 __BOLD__\
-for Italic single _(Underscore):
+For Italic use single _(Underscore):
 _ITALIC_\
-for Bold and Iitalic triple _(Underscore):
+For Bold and Iitalic use triple _(Underscore):
 ___BOLD AND ITALIC___
+
+> # **6-Bullet Points/Lists**
+
 
 
 
