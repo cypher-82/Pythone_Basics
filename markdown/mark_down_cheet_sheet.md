@@ -11,7 +11,7 @@
 This is normal text in markdown.
 > This is the spacial block of text in markdown.
 >
->This is second line of words.
+> This is second line of words.
 
 > # **3-Line Breaks**
 This is 40 days long course Data Science with python.\
@@ -39,10 +39,22 @@ For Bold and Iitalic use triple _(Underscore):
 ___BOLD AND ITALIC___
 
 > # **6-Bullet Points/Lists**
+- Day-1 
 
+- Day-2
 
+- Day-3
 
+- Day-4
 
+- Day-5
 
+- Day-6
+    >- Day-6a
+    >- Day-6b
+    >- Day-6c
 
-
+- Day-7
+    >- Day-7a
+    >- Day-7b
+    >- Day-7c
