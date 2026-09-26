@@ -13,3 +13,6 @@ print("I am learning coding with python")
 
 def my_function():
     print("This is my function")
+
+function = my_function
+print(function())
