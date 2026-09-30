@@ -7,6 +7,7 @@ P = float(input("Enter Principle (Amount) : "))
 R = float(input("Enter Rate (Percentage) : "))
 T = float(input("Enter Time (Years) : "))
 
+# T = T / 12
 SI = (P * R * T) / 100 # Simple Interest
 CI = P * (1 + R/100) ** T - P # Compund Interest
 
