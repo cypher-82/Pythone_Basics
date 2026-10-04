@@ -2,12 +2,16 @@
 # BMI = weight(kg) / (height(meter) ** 2)
 
 weight = float(input("Weight in (Kg): "))
-height = float(input("Height in (cm): "))
+height = float(input("Height : "))
 sel_var = input('Please select (meter/cm) : ')
 
 print('----------------------------------------------------------------')
 
-print(f'''your weight is {weight}kg and height is {height}cm
+if sel_var == 'cm':
+    print(f'''your weight is {weight}kg and height is {height} cm
+accourding to this data your BMI is: ''')
+else:
+    print(f'''your weight is {weight}kg and height is {height} meter
 accourding to this data your BMI is: ''')
 
 if sel_var == 'meter':
